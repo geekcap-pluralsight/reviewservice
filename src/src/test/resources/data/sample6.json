@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "productId": 1,
+    "version": 1,
+    "entries": [
+      {"username" : "user1", "date": "2018-11-10T11:38:26.855+0000", "review": "This is a review"}
+    ]
+  },
+  {
+    "id": "2",
+    "productId": 2,
+    "version": 7,
+    "entries": [
+      {"username" : "user2", "date": "2018-10-10T11:38:26.855+0000", "review": "This is a review"},
+      {"username" : "user3", "date": "2018-10-09T11:38:26.855+0000", "review": "This is a another review"},
+      {"username" : "user4", "date": "2018-10-08T11:38:26.855+0000", "review": "This is a third review"}
+    ]
+  },
+  {
+    "id": "3",
+    "productId": 3,
+    "version": 1,
+    "entries": [
+      {"username" : "user1", "date": "2018-11-10T11:38:26.855+0000", "review": "This is a review"}
+    ]
+  },
+  {
+    "id": "4",
+    "productId": 4,
+    "version": 5,
+    "entries": [
+      {"username" : "user2", "date": "2018-10-10T11:38:26.855+0000", "review": "This is a review"},
+      {"username" : "user3", "date": "2018-10-09T11:38:26.855+0000", "review": "This is a another review"},
+      {"username" : "user4", "date": "2018-10-08T11:38:26.855+0000", "review": "This is a third review"}
+    ]
+  },
+  {
+    "id": "5",
+    "productId": 5,
+    "version": 6,
+    "entries": [
+      {"username" : "user1", "date": "2018-11-10T11:38:26.855+0000", "review": "This is a review"}
+    ]
+  },
+  {
+    "id": "6",
+    "productId": 6,
+    "version": 8,
+    "entries": [
+      {"username" : "user2", "date": "2018-10-10T11:38:26.855+0000", "review": "This is a review"},
+      {"username" : "user3", "date": "2018-10-09T11:38:26.855+0000", "review": "This is a another review"},
+      {"username" : "user4", "date": "2018-10-08T11:38:26.855+0000", "review": "This is a third review"}
+    ]
+  }
+]
